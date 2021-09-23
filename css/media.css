@@ -1,0 +1,26 @@
+@media (max-width:767px) {
+
+    .container {
+        width: 100%
+    } 
+    .navbar {
+        display: none
+    }
+    .services {
+        padding: 20px
+    }
+    .services .item {
+        width: 90%;
+        float: none
+    }
+    .services .item .info h3 {
+        margin: 0 0 15px 0 
+    }
+    .services .fa-4x {
+        font-size: 3em
+    }
+
+@media (min-width:700px and max-width:1200px) {
+
+
+}
